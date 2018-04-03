@@ -11,7 +11,6 @@ String error=java.net.URLDecoder.decode((String)request.getAttribute("error"));
 <title>´íÎóÌáÊ¾</title>
 <link href="css/style.css" rel="stylesheet">
 </head>
-
 <body>
 <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
